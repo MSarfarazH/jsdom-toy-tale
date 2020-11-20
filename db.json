@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Elijah",
+      "image": "asdfasdf123123",
+      "likes": "0",
+      "id": 12
+    },
+    {
+      "name": "Elijah",
+      "image": "asdfasdf123123",
+      "likes": "0",
+      "id": 13
+    },
+    {
+      "name": "Mohammad Hussain",
+      "image": "asdf",
+      "likes": "0",
+      "id": 14
     }
   ]
 }
